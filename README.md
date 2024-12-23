@@ -8,7 +8,7 @@
 
 ---
 
-##  **Português**
+##  **Português** BR
 
 ### **📌 Sobre o Projeto**
 
@@ -53,7 +53,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE). Você pode utilizá-
 
 ---
 
-##  **English**
+##  **English** US
 
 ### **📌 About the Project**
 
