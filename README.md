@@ -30,11 +30,11 @@ Este site foi criado para apresentar meus trabalhos e habilidades no desenvolvim
 
 ### **📂 Estrutura do Repositório**
 
-/my-portfolio
-├── index.html          # Arquivo principal do site
-├── styles.css          # Estilos personalizados
-├── scripts.js          # Funcionalidades em JavaScript
-└── /assets             # Imagens e outros recursos estáticos
+- /my-portfolio
+- ├── index.html          # Arquivo principal do site
+- ├── styles.css          # Estilos personalizados
+- ├── scripts.js          # Funcionalidades em JavaScript
+- └── /assets             # Imagens e outros recursos estáticos
 
 
 ### **🌐 Como Acessar**
@@ -75,11 +75,11 @@ This website was created to showcase my work and skills in web development.
 
 ### **📂 Repository Structure**
 
-/my-portfolio 
-├── index.html         # Main website file 
-├── styles.css         # Custom styles 
-├── scripts.js         # JavaScript functionalities 
-└── /assets            # Images and other static resources
+- /my-portfolio 
+- ├── index.html         # Main website file 
+- ├── styles.css         # Custom styles 
+- ├── scripts.js         # JavaScript functionalities 
+- └── /assets            # Images and other static resources
 
 
 ### **🌐 How to Access**
